@@ -1,0 +1,26 @@
+{
+    "name": "teamgenerator",
+    "version": "1.0.0",
+    "description": "Employee based team profiles",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/robertrunstrails71/TeamGenerator.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/robertrunstrails71/TeamGenerator/issues"
+    },
+    "homepage": "https://github.com/robertrunstrails71/TeamGenerator#readme",
+    "dependencies": {
+      "cheerio": "^1.0.0-rc.3",
+      "inquirer": "^7.0.1",
+      "jest": "^24.9.0",
+      "open": "^7.0.0"
+    }
+  }
+  
